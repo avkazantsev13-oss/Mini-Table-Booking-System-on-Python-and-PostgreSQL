@@ -20,7 +20,7 @@
 
 🚀 Простой старт за пять минут
 
-Склонируйте репозиторий, настройте файл .env (хост, порт, база, логин, пароль), выполните pip install -r requirements.txt и запустите seed_booking_data.py. Скрипт создаст структуру таблиц, индексы, внешние ключи и заполнит базу демо-данными: 5 пользователей, 7 столов и 10 бронирований. После этого python frontend.py — и вы в GUI.
+Скопируйте репозиторий, настройте файл .env (хост, порт, база, логин, пароль), выполните pip install -r requirements.txt и запустите seed_booking_data.py. Скрипт создаст структуру таблиц, индексы, внешние ключи и заполнит базу демо-данными: 5 пользователей, 7 столов и 10 бронирований. После этого python frontend.py — и вы в GUI.
 
 🛠 Универсальный слой доступа к данным
 
@@ -62,7 +62,7 @@ A tkinter‑based interface with tabs for guests, tables, and bookings, plus a d
 
 🚀 Get started in five minutes
 
-Clone the repository, configure your .env file (host, port, database, login, password), run pip install -r requirements.txt, and execute seed_booking_data.py. The script creates the full table structure, indexes, foreign keys, and populates the database with demo data: 5 users, 7 tables, and 10 bookings. Then type python frontend.py — and you’re in the GUI.
+Copy the repository, configure your .env file (host, port, database, login, password), run pip install -r requirements.txt, and execute seed_booking_data.py. The script creates the full table structure, indexes, foreign keys, and populates the database with demo data: 5 users, 7 tables, and 10 bookings. Then type python frontend.py — and you’re in the GUI.
 
 🛠 A universal data access layer
 
